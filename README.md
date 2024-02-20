@@ -11,4 +11,4 @@ ANN model for predicting segregation energy distribution of hydrogen in tungsten
     *  dscribe
 
 ## How to use
-See the demo.ipynb.
+See the `demo.ipynb`.
